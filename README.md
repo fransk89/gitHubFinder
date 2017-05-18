@@ -1,5 +1,4 @@
-
-#GitHubFinder.md
+# GitHubFinder
  
 **Description**
 
